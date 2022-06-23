@@ -1,6 +1,6 @@
 # Image_Processing_Gate
 
-This project was created to be applied on a simulation of an Autonomous Underwater Vehicle (AUV) created for the submission for the Robosun 2021 competition by the team DTU-AUV.
+This project was created to be applied on a simulation of an Autonomous Underwater Vehicle (AUV) created for the submission for the Robosub 2021 competition by the Team DTU-AUV.
 
 This project consists of a specific task out of the various tasks performed by the AUV
 
