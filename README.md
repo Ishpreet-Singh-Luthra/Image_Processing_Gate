@@ -6,6 +6,8 @@ This project consists of a specific task out of the various tasks performed by t
 
 Task: When yaw is applied to the bot after releasing it in the water when the gate comes in the field of view of the camera, only the structure and color are visible of the gate, so the algorithm of this code involves the detection of the orange colour of the gate using colour thresholding, then the concept of contour detection is used to measure the perimeter of the sides of the gates so that the relative difference between the lengths of the gates due to different angles of view can be calculated and the bot can align itself rotationally as well as translationally.
 
+Also find attached the project report (pdf) of the project
+
 The video link of the simulation : https://youtu.be/9H-Ao4aECxI
 
 Original Image : 
